@@ -1,5 +1,5 @@
 # StyleGAN Pytorch Implementation
-This is a Pytorch implementation of StyleGAN (https://arxiv.org/abs/1812.04948), with the capability of generating 1024x1024 pictures. Training to grow to 1024x1024 for training is also supported. A 1080 Ti is recommended for faster training speed.
+This is a Pytorch implementation of StyleGAN (https://arxiv.org/abs/1812.04948), with the capability of generating 1024x1024 pictures. Training to grow to 1024x1024 is also supported. A 1080 Ti is recommended for faster training speed.
 
 ## Prerequisites
 ### Dependencies
